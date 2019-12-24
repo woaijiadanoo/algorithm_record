@@ -1,4 +1,4 @@
-package com.jiangzh.record.algorithm.datastructure;
+package com.jiangzh.record.ds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
